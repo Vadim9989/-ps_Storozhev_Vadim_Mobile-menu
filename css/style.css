@@ -274,7 +274,7 @@ h1 {
   .nav__button:hover {
     border: 2px solid #b8ffec;
     border-radius: 6px;
-
+    color: #7e7e82;
     background: #ffffff;
   }
   img {
